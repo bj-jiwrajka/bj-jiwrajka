@@ -1,7 +1,7 @@
 ## Hi👋, I am Bijay Jiwrajka
 Sophomore at [NIT SILCHAR](http://www.nits.ac.in/)
 
-![GitHub CI](https://img.shields.io/badge/Codeforces-1119-green) ![GitHub CI](https://img.shields.io/badge/CodeChef-1570-yellowgreen)
+![GitHub CI](https://codeforces.com/profile/bj_jiwrajka) ![GitHub CI](https://www.codechef.com/users/bj_0304)
  
 - 🌱 I’m currently learning about backend development and Data Structures & Algorithms
 - 💬 Ask me about Web Development and Competitve Programming
