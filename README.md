@@ -1,5 +1,5 @@
 ## Hi👋, I am Bijay Jiwrajka
-Currently a spohomore [@NITSILCHAR](http://www.nits.ac.in/)
+Sophomore at [NIT SILCHAR](http://www.nits.ac.in/)
 
 ![GitHub CI](https://img.shields.io/badge/Codeforces-1119-green) ![GitHub CI](https://img.shields.io/badge/CodeChef-1570-yellowgreen)
  
