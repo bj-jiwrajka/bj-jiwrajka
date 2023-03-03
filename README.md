@@ -6,7 +6,7 @@ Sophomore at [NIT SILCHAR](http://www.nits.ac.in/)
 - 📫 Reach me at jiwrajkabijay@gmail.com
 
 
-[![GitHub CI](https://img.shields.io/badge/Codeforces-1146-yellowgreen)](https://codeforces.com/profile/bj_jiwrajka)
+[![GitHub CI](https://img.shields.io/badge/Codeforces-1214-yellowgreen)](https://codeforces.com/profile/bj_jiwrajka)
 [![GitHub CI](https://img.shields.io/badge/Codechef-1596-blue)](https://www.codechef.com/users/bj_0304)
 # 📊 GitHub Stats:
 
