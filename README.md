@@ -6,8 +6,8 @@ Sophomore at [NIT SILCHAR](http://www.nits.ac.in/)
 - 📫 Reach me at jiwrajkabijay@gmail.com
 
 
-[![GitHub CI](https://img.shields.io/badge/Codeforces-1214-yellowgreen)](https://codeforces.com/profile/bj_jiwrajka)
-[![GitHub CI](https://img.shields.io/badge/Codechef-1596-blue)](https://www.codechef.com/users/bj_0304)
+[![GitHub CI](https://img.shields.io/badge/Codeforces-1203-yellowgreen)](https://codeforces.com/profile/bj_jiwrajka)
+[![GitHub CI](https://img.shields.io/badge/Codechef-1634-blue)](https://www.codechef.com/users/bj_0304)
 # 📊 GitHub Stats:
 
 [![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=bj-jiwrajka&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
