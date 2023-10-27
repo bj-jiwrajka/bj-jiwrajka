@@ -1,7 +1,7 @@
 ## Hi👋, I am Bijay Jiwrajka
 Pre-final year at [NIT SILCHAR](http://www.nits.ac.in/)
 
-- 🌱 I’m currently learning about backend development and Data Structures & Algorithms
+- 🌱 I’m currently learning about backend development
 - 💬 Ask me about Web Development and Competitve Programming
 - 📫 Reach me at jiwrajkabijay@gmail.com
 
